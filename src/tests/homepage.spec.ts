@@ -2,7 +2,8 @@ import { test, expect } from '@playwright/test';
 import PracticePage from '../po/pages/xpath.practice.page.ts';
 import Common from '../po/pages/components/commons/common.ts';
 
-test.describe("Homepage", async() => {
+
+test.describe("Practice page", async() => {
     test.beforeAll(async({browser}) => {
         console.log(browser.version());
     });
