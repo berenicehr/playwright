@@ -1,8 +1,5 @@
 import {test} from "../fixtures/custom.fixtures.ts"
 import data from "../fixtures/data.json"
-//Fixture example: 
-// const practicePage = new PracticePage(page)
-//Not required anymore
 
 test("Validate inputs can be filled", async({page, practicePage}) => {
     await page.goto("https://selectorshub.com/xpath-practice-page/")
