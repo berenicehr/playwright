@@ -1,32 +1,38 @@
 import {test as base} from "@playwright/test"
-import {CookiesBanner, Header, Common} from "../po/components/index.components.ts"
+import {CookiesBanner, HamburgerMenu, Header, Utils} from "../po/components/index.components.ts"
 import {Homepage} from "../po/pages/index.pages.ts"
 type ui = {
     header: Header,
     cookiesBanner: CookiesBanner,
-    common: Common
+    common: Utils
     homepage: Homepage
+    hamburgerMenu: HamburgerMenu
 }
 
 export const test = base.extend<ui>({
 
     header: async({page}, use) =>{
         const epamHeader = new Header(page);
-        await use(epamHeader)
+        await use(epamHeader);
     },
 
     cookiesBanner: async({page}, use) => {
         const cookieBanner = new CookiesBanner(page);
-        await use(cookieBanner)
+        await use(cookieBanner);
     },
 
     common: async({page}, use) => {
-        const common = new Common(page);
-        await use(common)
+        const common = new Utils(page);
+        await use(common);
     },
 
     homepage: async({page}, use) => {
         const home = new Homepage(page);
-        await use(home)
+        await use(home);
+    },
+
+    hamburgerMenu: async({page}, use) => {
+        const hamburger = new HamburgerMenu(page);
+        await use(hamburger);
     }
 })

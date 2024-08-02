@@ -1,6 +1,6 @@
 import { Page } from "@playwright/test";
 
-export default class Common {
+export default class Utils {
     page: Page
 
     constructor(page: Page){
@@ -10,6 +10,5 @@ export default class Common {
     async navigateTo(url: string){
         await this.page.goto(url);
     }
-
 
 }

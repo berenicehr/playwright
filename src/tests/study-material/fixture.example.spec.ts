@@ -1,4 +1,4 @@
-import {test} from "../../fixtures/custom.fixtures.ts"
+import {test} from "../../fixtures/study-material/custom.fixtures.ts"
 import data from "../../fixtures/data.json"
 
 test("Validate inputs can be filled", async({page, practicePage}) => {

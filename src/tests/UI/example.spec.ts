@@ -1,11 +1,12 @@
 import { expect, test } from "@playwright/test";
-import Common from "../../po/components/commons/common.ts"
+import Common from "../../po/components/commons/utils.ts"
 import Homepage from "../../po/pages/homepage.ts";
 //In case I don't want to use the global setup use context
 
-test.use({storageState: "../../../configs/cookiesNotAccepted.json"});
+test.use({storageState: "./src/configs/cookiesNotAccepted.json"});
 
 test.describe('Homepage', () => {
+
 
     test.skip('Navigate to Epam Homepage without accepting cookies', async ({ page, context }) => {
         const common = new Common(page);
