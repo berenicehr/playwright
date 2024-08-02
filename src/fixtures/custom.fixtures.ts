@@ -1,5 +1,5 @@
 import {test as base } from "@playwright/test";
-import PracticePage from "../po/pages/xpath.practice.page";
+import PracticePage from "../po-study-material/pages/xpath.practice.page";
 type uiPages = {
     practicePage: PracticePage,
 }

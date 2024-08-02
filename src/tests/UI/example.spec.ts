@@ -1,15 +1,26 @@
 import { expect, test } from "@playwright/test";
-import Common from "../../POM/components/commons/common.ts"
-import Homepage from "../../POM/pages/homepage.ts";
-
+import Common from "../../po/components/commons/common.ts"
+import Homepage from "../../po/pages/homepage.ts";
 //In case I don't want to use the global setup use context
+
+test.use({storageState: "../../../configs/cookiesNotAccepted.json"});
 
 test.describe('Homepage', () => {
 
-    test('Navigate to Epam Homepage and accept cookies', async ({ page, context }) => {
+    test.skip('Navigate to Epam Homepage without accepting cookies', async ({ page, context }) => {
         const common = new Common(page);
         const homepage = new Homepage(page);
         await context.clearCookies();
+        await common.navigateTo("https://www.epam.com/");
+        const canadaButton = await homepage.canadaButton
+        await expect(canadaButton).toBeVisible();
+        page.pause();
+        await canadaButton.click();
+    })
+
+    test('Navigate to Epam Homepage without setup', async ({ page }) => {
+        const common = new Common(page);
+        const homepage = new Homepage(page);
         await common.navigateTo("https://www.epam.com/");
         const canadaButton = await homepage.canadaButton
         await expect(canadaButton).toBeVisible();

@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
-import Common from '../../po/pages/components/commons/common.ts';
-import PracticePage from '../../po/pages/xpath.practice.page.ts';
+import Common from "../../po-study-material/pages/components/commons/common.ts"
+import PracticePage from '../../po-study-material/pages/xpath.practice.page.ts';
 
 test.describe("Practice page", async() => {
     test.beforeAll(async({browser}) => {

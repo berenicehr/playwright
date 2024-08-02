@@ -1,5 +1,5 @@
 import { chromium, Page, Browser } from "@playwright/test";
-import CookiesBanner from "../POM/components/cookiesBanner";
+import CookiesBanner from "../po/components/cookiesBanner";
 
 export default async function globalSetup(){
     try {
