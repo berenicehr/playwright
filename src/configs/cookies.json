@@ -1,0 +1,483 @@
+{
+  "cookies": [
+    {
+      "name": "renderid",
+      "value": "publisher1",
+      "domain": "www.epam.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1094471147.1722615170",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1730391170,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.2039882522.1722615170",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1757175170.356416,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EYGYLWSTX2",
+      "value": "GS1.1.1722615170.1.0.1722615170.60.0.0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1757175170.369323,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4Ac-h_Oi1gCNk6T",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzJcrhQ4",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzKSoc",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJ4MiCzDSaYiA",
+      "value": ":::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdcL",
+      "value": "1:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1757175170.37456,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdk-R",
+      "value": "e7fca1d4-fea7-4f00-aba5-cd8c300700a0:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1757175170.375249,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdkLzJhXhh",
+      "value": "1722615170:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdkLW6",
+      "value": "b5047aa8-3bc4-4bc2-a38e-f43040989131:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLz5crdh",
+      "value": "1:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLW6",
+      "value": "898efa90-0e4d-43d9-9703-eac4516659dc:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "JJTdeLzJhXhh",
+      "value": "1722615170:::2",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722618770,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "10aae22050ea11efb9f2d1121eeeddd0",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722701570,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "10ab014050ea11efa958179fd1ac3e72",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1756311170,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1722615170438.8871572191808584",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1730391170,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_mkto_trk",
+      "value": "id:030-GZP-996&token:_mch-epam.com-1722615170457-49683",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1757175170.457947,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MUID",
+      "value": "12D21D80216C661B05DF094F2015670A",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1756311171.827201,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1723219971.473263,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "li_sugr",
+      "value": "d37c4dc0-5426-418d-9baa-da13b89a7de8",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1730391171.053382,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST06:s=T:r=T:a=T:p=T:g=2969:u=1:x=1:i=1722615170:t=1722701570:v=2:sig=AQH3q21FrFt7qQFSSnFXGpZP_3K7WY62\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1722701570.491405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1722616070.526682,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQIF7yr-k1NPcQAAAZET3YZdmCBxW1JW1Cqpl7_g3U235C_kvN0lMj-j128Ps6NkjPAee2mMB2OmTA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1725207170.532043,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQLcuhU9lh9lJgAAAZET3YZdVhej8aZCCWWA6PPGNl2dqxgDcneeQODIM4RPtNsQbGC49w2prOO1W5n5fznmZQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1725207170.53208,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&6f9b8a4b-d03f-4605-8715-2d9fa5f0ed55\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1754151172.05354,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "6b398214a0854517b33808f50fae636b.20240802.20250802",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1754151170.671373,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_1638007",
+      "value": "eyJpZCI6Ijc5MjQzZmVmLThiMzMtNWVkMC1hN2FjLTc3MjZhN2Y4MTIzYyIsImNyZWF0ZWQiOjE3MjI2MTUxNzA2ODMsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1754151170,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_1638007",
+      "value": "eyJpZCI6ImMyMzJjNzc4LTBhMjItNDQyMC05YjllLTc2NTQxNjBjOWZmNiIsImMiOjE3MjI2MTUxNzA2ODUsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722616970,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202408021612507f5ac02a-6300-4998-81fb-1280defbe07bAQHIPbUSoAqV_pEBBcUpEk356hU2DoBm\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1754151170.706173,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "raovub%7C2%7Cfnz%7C0%7C1675",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1754151170,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "6oe3sp%7C1722615171311%7C1%7C1%7Ca.clarity.ms%2Fcollect",
+      "domain": ".epam.com",
+      "path": "/",
+      "expires": 1722701571,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1723219971.827352,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "12D21D80216C661B05DF094F2015670A",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1756311171.827417,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "12D21D80216C661B05DF094F2015670A",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1756311172.902333,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1723219972.902449,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ANONCHK",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1722615772.902533,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_zitok",
+      "value": "f572f2f14090e64a0d891722615172",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1754151172,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "5iuAzTWk_KLUe7M0V4Ox6bQj9ip3XwL.ef3nb6eVADs-1722615172-1.0.1.1-QcunYaC1RA004p9V4yNPAFtcRHSyudLpspMnwpygcez.62vAGjovE2SXRrVy5BkIvSZA5O46oQEwl.mA3zNpiw",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": 1722616972.620548,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "t1LUY8MBxBnlwmxNIbJetO_I_mkLLosO6.suGl49Obc-1722615172724-0.0.1.1-604800000",
+      "domain": ".zoominfo.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2024-08-02T16:12:52.913Z",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1754151172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Fri+Aug+02+2024+10%3A12%3A52+GMT-0600+(hora+est%C3%A1ndar+central)&version=6.36.0&isIABGlobal=false&hosts=&consentId=390543d1-3d3d-467b-b333-fd6637478de7&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2CC0005%3A1&iType=1",
+      "domain": ".www.epam.com",
+      "path": "/",
+      "expires": 1754151172,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.epam.com",
+      "localStorage": [
+        {
+          "name": "ContextHubPersistence",
+          "value": "{\"store\":{\"surferinfo\":{\"display\":{\"resolution\":{\"width\":1280,\"height\":720},\"devicePixelRatio\":1,\"colorDepth\":24,\"nrOfColors\":16777216,\"pixelsPerInch\":0,\"orientation\":{\"mode\":\"landscape\",\"direction\":\"normal\"}},\"window\":{\"dimension\":{\"width\":1280,\"height\":720},\"percentageUsage\":1},\"browser\":{\"version\":\"127.0.0.0\",\"family\":\"Chrome\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"},\"device\":{\"category\":\"Desktop\",\"type\":\"Desktop\",\"model\":\"PC\",\"version\":\"\"},\"isMobile\":true,\"os\":{\"name\":\"Mac OS X\",\"version\":\"10.15.7\"},\"year\":2024,\"month\":8,\"day\":2,\"hour\":10,\"minutes\":12},\"emulators\":{\"devices\":[{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false},{\"id\":\"ipad\",\"title\":\"iPad\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"5.1.1\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-2\",\"title\":\"iPad 2\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":768,\"height\":1024,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":1},{\"id\":\"ipad-3\",\"title\":\"iPad 3 / 4 / Air\",\"type\":\"tablet\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1536,\"height\":2048,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-4\",\"title\":\"iPhone 4\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"7.1.2\",\"width\":640,\"height\":960,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-5\",\"title\":\"iPhone 5\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":640,\"height\":1136,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6\",\"title\":\"iPhone 6\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":750,\"height\":1334,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":2},{\"id\":\"iphone-6-plus\",\"title\":\"iPhone 6 Plus\",\"type\":\"mobile\",\"platform\":\"iOS\",\"platformVersion\":\"8.1.3\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3},{\"id\":\"galaxy-s4\",\"title\":\"Samsung Galaxy S4\",\"type\":\"mobile\",\"platform\":\"Android\",\"platformVersion\":\"4.4.2 KitKat\",\"width\":1080,\"height\":1920,\"canRotate\":true,\"orientation\":\"Portrait\",\"device-pixel-ratio\":3}],\"currentDeviceId\":\"native\",\"orientations\":[{\"id\":\"landscape\",\"title\":\"Landscape\"},{\"id\":\"portrait\",\"title\":\"Portrait\"}],\"currentDevice\":{\"id\":\"native\",\"title\":\"Native\",\"type\":\"screen\",\"width\":1280,\"height\":720,\"orientation\":\"Landscape\",\"platform\":\"Mac OS X\",\"platformVersion\":\"10.15.7\",\"canRotate\":false}},\"pagedata\":{\"title\":\"EPAM | Software Engineering & Product Development Services  \",\"description\":\"Since 1993, we've helped customers digitally transform their businesses through our unique blend of world-class software engineering, design and consulting services.\",\"path\":\"/content/epam/en\",\"hits\":0,\"navTitle\":\"Home\",\"tags\":\"\",\"sitesection\":\"en\",\"_\":{\"raw-response\":{}}},\"segmentation\":{\"_\":{\"url\":\"https://www.epam.com/conf/epam/settings/wcm/segments.seg.js\"},\"segments\":[{\"label\":\"north-america-es-l10n-gdpr\",\"link\":\"/conf/epam/settings/wcm/segments/north-america-es-l10n-gdpr.html\",\"path\":\"/conf/epam/settings/wcm/segments/north-america-es-l10n-gdpr\"},{\"label\":\"location-detected\",\"link\":\"/conf/epam/settings/wcm/segments/location-detected.html\",\"path\":\"/conf/epam/settings/wcm/segments/location-detected\"}],\"summary\":\"2 segments\"},\"geolocation\":{\"_\":{\"url\":\"https://www.epam.com/services/location/geolocation\",\"response-time\":1722615169377,\"raw-response\":{}},\"location\":{\"continent\":\"North America\",\"continentCode\":\"NA\",\"country\":\"Mexico\",\"countryCode\":\"MX\",\"region\":\"\",\"regionCode\":\"\",\"city\":\"\",\"postalCode\":\"\",\"latitude\":\"19.43420\",\"longitude\":\"-99.05590\"}},\"epam_gdpr\":{\"gdprLocation\":{\"countryCode\":\"MX\"}},\"job_search_country\":{\"jobLocation\":{\"countryName\":null}}}}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Sat, 03 Aug 2024 16:12:50 GMT"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1722615170415"
+        },
+        {
+          "name": "_uetvid",
+          "value": "10ab014050ea11efa958179fd1ac3e72"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Wed, 27 Aug 2025 16:12:50 GMT"
+        },
+        {
+          "name": "li_adsId",
+          "value": "88f77a3e-6968-4578-b431-76e749bf1918"
+        },
+        {
+          "name": "_uetsid",
+          "value": "10aae22050ea11efb9f2d1121eeeddd0"
+        }
+      ]
+    }
+  ]
+}

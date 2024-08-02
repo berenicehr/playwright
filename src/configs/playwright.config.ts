@@ -11,6 +11,7 @@ import { defineConfig, devices } from '@playwright/test';
  */
 export default defineConfig({
 
+  globalSetup: "./global-setup.ts",
   testDir: '../tests',
   /* Run tests in files in parallel */
   fullyParallel: true,
@@ -24,6 +25,7 @@ export default defineConfig({
   reporter: 'html',
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
+      storageState: "src/configs/cookies.json",
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'http://127.0.0.1:3000',
 

@@ -1,5 +1,5 @@
-import {test} from "../fixtures/custom.fixtures.ts"
-import data from "../fixtures/data.json"
+import {test} from "../../fixtures/custom.fixtures.ts"
+import data from "../../fixtures/data.json"
 
 test("Validate inputs can be filled", async({page, practicePage}) => {
     await page.goto("https://selectorshub.com/xpath-practice-page/")

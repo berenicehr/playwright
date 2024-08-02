@@ -1,7 +1,6 @@
 import { test, expect } from '@playwright/test';
-import PracticePage from '../po/pages/xpath.practice.page.ts';
-import Common from '../po/pages/components/commons/common.ts';
-
+import Common from '../../po/pages/components/commons/common.ts';
+import PracticePage from '../../po/pages/xpath.practice.page.ts';
 
 test.describe("Practice page", async() => {
     test.beforeAll(async({browser}) => {
@@ -10,6 +9,7 @@ test.describe("Practice page", async() => {
 
     test.beforeEach(async({page}) => {
         const common = new Common(page); 
+
         await common.navigateTo("https://selectorshub.com/xpath-practice-page/")
     })
 
@@ -39,8 +39,6 @@ test.describe("Practice page", async() => {
     test.afterAll(async({ page }) => {
         await page.close();
     });
-
-
 });    
 
 
