@@ -7,7 +7,6 @@ test.use({storageState: "./src/configs/cookiesNotAccepted.json"});
 
 test.describe('Homepage', () => {
 
-
     test.skip('Navigate to Epam Homepage without accepting cookies', async ({ page, context }) => {
         const common = new Common(page);
         const homepage = new Homepage(page);
